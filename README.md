@@ -1,5 +1,5 @@
 # UTILIDADES-JP
-**PEQUEÑO EJECUTABLE CON DESCARGAS UTILES DEL GSM**
+**PEQUEÑO EJECUTABLE CON DESCARGAS UTILES DEL GSM,**
 **AUN ESTA EN DESARROLLO, ES UNA VERSION INICIAL**
 -------------------------------------------------
 [DOWNLOAD](https://github.com/joseph-nc/UTILIDADES-JP/releases/download/V1.0/JP-UTILIDADES-v1.0.exe)
