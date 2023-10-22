@@ -4,5 +4,5 @@
 -------------------------------------------------
 [DOWNLOAD](https://github.com/joseph-nc/UTILIDADES-JP/releases/download/V1.0/JP-UTILIDADES-v1.0.exe)
 -------------------------------------------------
-![Captura](https://github.com/joseph-nc/UTILIDADES-JP/assets/81875707/e03915ff-9c7b-4480-a390-4e1d4a493c15)
 
+![Captura](https://github.com/joseph-nc/UTILIDADES-JP/assets/81875707/760df9d8-9a85-49b6-b9ee-8ee173d89feb)
